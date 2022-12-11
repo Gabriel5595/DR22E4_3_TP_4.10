@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.caixinha{
+  width: 40px;
+  height: 40px;
+  cursor: move;
+}
+
+.container{
+  width: 250px;
+  height: 150px;
+  border: 1px solid black;
+}
+
+.corVerde{
+  background-color: green;
+}
+
+.corRoxa{
+  background-color: purple;
+}
+
+.corLaranja{
+  background-color: orange;
+}
+
+.corVermelha{
+  background-color: red;
+}
